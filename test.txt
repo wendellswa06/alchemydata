@@ -1,0 +1,9 @@
+{"file_name": "COCO_train2014_000000318556.jpg", "text": "A very clean and well decorated empty bathroom"}
+{"file_name": "COCO_train2014_000000116100.jpg", "text": "A panoramic view of a kitchen and all of its appliances."}
+{"file_name": "COCO_train2014_000000318556.jpg", "text": "A blue and white bathroom with butterfly themed wall tiles."}
+{"file_name": "COCO_train2014_000000116100.jpg", "text": "A panoramic photo of a kitchen and dining room"}
+{"file_name": "COCO_train2014_000000379340.jpg", "text": "A graffiti-ed stop sign across the street from a red car "}
+{"file_name": "COCO_train2014_000000379340.jpg", "text": "A vandalized stop sign and a red beetle on the road"}
+{"file_name": "COCO_train2014_000000318556.jpg", "text": "A bathroom with a border of butterflies and blue paint on the walls above it."}
+{"file_name": "COCO_train2014_000000318556.jpg", "text": "An angled view of a beautifully decorated bathroom."}
+{"file_name": "COCO_train2014_000000134754.jpg", "text": "The two people are walking down the beach."}
