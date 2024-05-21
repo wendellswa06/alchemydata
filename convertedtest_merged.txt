@@ -1,0 +1,4 @@
+{"file_name": "COCO_train2014_000000318556.jpg", "text": ""Show an immaculately clean and well-decorated bathroom with an angled view, featuring blue and white butterfly-themed wall tiles and a border of butterflies above it.""}
+{"file_name": "COCO_train2014_000000116100.jpg", "text": ""A panoramic image encompassing a fully-equipped kitchen with various appliances and an adjacent dining room.""}
+{"file_name": "COCO_train2014_000000379340.jpg", "text": ""A defaced stop sign near the road, juxtaposed with a vibrant red beetle car parked across the street.""}
+{"file_name": "COCO_train2014_000000134754.jpg", "text": ""Two individuals leisurely strolling along a sandy beach.""}
