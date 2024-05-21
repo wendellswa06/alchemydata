@@ -68,5 +68,5 @@ def merge(inputfile: str):
         for file_name, text in merged_texts.items():
             f.write(f'{{"file_name": "{file_name}", "text": "{text}"}}\n')
 if __name__ == '__main__':
-    # merge("metadata.jsonl")
-    converter("test_merged.txt")
+    merge("metadata.jsonl")
+    # converter("test_merged.txt")
